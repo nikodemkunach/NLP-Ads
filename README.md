@@ -87,9 +87,10 @@ Ten projekt dotyczy przetwarzania danych z pliku CSV zawierającego szczegółow
 ## Narzędzia i środowisko
 
 ### Biblioteki:
-- `transformers`
 - `torch`
-- `unsloth`
+- `Transformers==4.47.1`
+- `unsloth==2024.12.11`
+- `unsloth-zoo==2024.12.6`
 - `pandas`
 - `datasets`
 - `matplotlib`
